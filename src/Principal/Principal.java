@@ -13,7 +13,9 @@ public class Principal {
 		System.out.println(" ");
 		
 		if (vec[i].getClass() != Moto.class) {
-			System.out.print(vec[i].getClass()+" \n");
+			
+		}else {
+			
 		}
 			
 	}
